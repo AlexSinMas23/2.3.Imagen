@@ -100,8 +100,5 @@
   <ItemGroup>
     <Resource Include="img\elGranMasturbador.jpg" />
   </ItemGroup>
-  <ItemGroup>
-    <Resource Include="img\bejo-tripi-hapa.jpg" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
